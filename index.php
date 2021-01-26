@@ -7,6 +7,7 @@
     <title>Contoh 2 dari GIT REMOTE local koputer </title>
 </head>
 <h1>INI GIT REMOTE 2 </h1>
+<p> ISI PARAGRAF 2 </p>
 
 <body>
 
